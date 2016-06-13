@@ -1,0 +1,20 @@
+var x = prompt ('chislo 1','')
+var z = prompt ('znak','')
+var y = prompt ('chislo 2','')
+var result
+
+switch (z) {
+  case "+":
+    result=parseFloat(x)+parseFloat(y);
+    break;
+  case "-":
+    result=parseFloat(x)-parseFloat(y);
+    break;
+  case "*":
+    result=parseFloat(x)*parseFloat(y);
+    break;
+  case "/":
+    result=parseFloat(x)/parseFloat(y);
+    break;
+}
+    alert(result);
