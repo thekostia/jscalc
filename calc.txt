@@ -18,3 +18,5 @@ switch (z) {
     break;
 }
     alert(result);
+    123123
+   
