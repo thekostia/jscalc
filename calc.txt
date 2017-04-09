@@ -20,3 +20,4 @@ switch (z) {
     alert(result);
     123123
    
+fffsdfsdfsdf
